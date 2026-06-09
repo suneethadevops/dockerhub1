@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: suneetha12/githubrepos:latest
+          tags: suneetha12/githubrepos:latest1
